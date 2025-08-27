@@ -1,0 +1,30 @@
+navbar_task:
+  description: Create a responsive navigation bar HTML file with modern design
+  agent: frontend_html_engineer
+  instructions: >
+    Design a fully responsive navbar with Bootstrap classes
+    Include logo, navigation links, and mobile hamburger menu
+    Ensure semantic HTML5 structure
+    Add proper accessibility attributes
+  output_file: output/navbar.html
+
+header_section_task:
+  description: Develop a comprehensive header section for website
+  agent: frontend_html_engineer
+  instructions: >
+    Create header with hero image or background
+    Include main heading, subheading, and call-to-action button
+    Use semantic HTML5 tags like <header>
+    Implement responsive design principles
+  output_file: output/header.html
+
+footer_task:
+  description: Construct a complete website footer
+  agent: frontend_html_engineer
+  instructions: >
+    Design footer with multiple column layout
+    Include copyright information
+    Add social media links
+    Implement responsive grid system
+    Use semantic HTML5 footer tag
+  output_file: output/footer.html
